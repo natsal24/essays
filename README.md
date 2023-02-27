@@ -10,7 +10,7 @@ Juncture visual essays
       Aulacophora indica
     </h2>
     
-<ve-media right src="wc:The_Bug_Peek.jpg">
+<ve-media right src="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Torres-Ortiz-Family-1-scaled.jpeg">
     </ve-media>
     <p>The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.</p>
 <p>This image is hosted on

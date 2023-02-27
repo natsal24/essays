@@ -1,10 +1,10 @@
-# essays
-Juncture visual essays
+# Torres-Ortiz Family History
+The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout the mid-20th century the family moved across the United States. We follow their journey not only to learn how they were able to integrate into American culture, but also what aspects of their own culture they chose to preserve.
 <section class="section1">
   <h1>
-    Torres-Ortiz Family History
+    Who Were They?
   </h1>
-  <p>This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.</p>
+  <p>TEXT</p>
 <section class="section2">
     <h2>
       Aulacophora indica

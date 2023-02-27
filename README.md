@@ -2,7 +2,7 @@
 Juncture visual essays
 <section class="section1">
   <h1>
-    Hello, Juncture
+    Torres-Ortiz Family History
   </h1>
   <p>This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.</p>
 <section class="section2">
